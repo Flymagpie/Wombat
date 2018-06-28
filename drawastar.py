@@ -7,3 +7,4 @@ for i in range(1,5):
     print ('*          *')
 print ('*'*10)
 print ('*\n'*6)
+print ('F\n'*3)
